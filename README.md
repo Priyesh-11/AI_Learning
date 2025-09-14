@@ -1,2 +1,2 @@
-# AI_Learning
+# Python_Learning
 Starting Learning AI
